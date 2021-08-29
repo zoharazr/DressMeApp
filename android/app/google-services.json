@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867245178843",
+    "project_id": "dress-c6f84",
+    "storage_bucket": "dress-c6f84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867245178843:android:7a3ce85cc0fa2be732f1fe",
+        "android_client_info": {
+          "package_name": "com.dressmeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867245178843-d24egru2v47unu9dvjomfdersik6ho3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeqhvHIlmxrvlseoKtw0R9AAfTSdddwNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867245178843-d24egru2v47unu9dvjomfdersik6ho3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
